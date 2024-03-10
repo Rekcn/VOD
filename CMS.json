@@ -1,3 +1,4 @@
 {“sites”：[
+  {"key":"快看资源","name":"🔴快看资源","type":1,"api":"https://www.kuaikanzy.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
   {"key":"咕咕 - Cooing","name":"咕咕 - Cooing","type":1,"api":"https://cooing.cc/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ]}
